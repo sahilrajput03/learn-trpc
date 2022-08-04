@@ -1,6 +1,6 @@
 # Prisma + tRPC
 
-~Sahil: Important Points
+**~Sahil - Important Points:**
 
 - Api's are linked from `src/pages/api/trpc/[trpc].ts` to routers `/src/server/routers/post.ts` file.
 
